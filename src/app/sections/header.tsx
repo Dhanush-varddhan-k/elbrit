@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import logo from "@/Assets/heading.png"
-import Blog from './blog';
+
 const Header: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState<boolean>(false);
 
