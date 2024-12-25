@@ -1,11 +1,11 @@
 
 import React from 'react';
 import Image from "next/image";
-import Phone from "@/assets/phone.svg";
-import Mail from "@/assets/mail.svg";
-import Location from "@/assets/location.svg";
-import Logo from "@/assets/heading.png";
-import locationIcon from "@/assets/locationIcon.svg";
+import Phone from "@/Assets/phone.svg";
+import Mail from "@/Assets/mail.svg";
+import Location from "@/Assets/location.svg";
+import Logo from "@/Assets/heading.png";
+import locationIcon from "@/Assets/locationIcon.svg";
 
 const Footer: React.FC = () => {
 

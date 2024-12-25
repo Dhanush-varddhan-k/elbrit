@@ -7,56 +7,56 @@ const Blog = () => {
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog1-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog1-450x580.jpg.png')]",
     },
     {
       id: 2,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr, 2024",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog1-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog1-450x580.jpg.png')]",
     },
     {
       id: 3,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog1-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog1-450x580.jpg.png')]",
     },
     {
       id: 4,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog1-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog1-450x580.jpg.png')]",
     },
     {
       id: 5,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog2-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog2-450x580.jpg.png')]",
     },
     {
       id: 6,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog2-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog2-450x580.jpg.png')]",
     },
     {
       id: 7,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog2-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog2-450x580.jpg.png')]",
     },
     {
       id: 8,
       title: "The covid 19 epidemic in 2020 is back",
       date: "20 Apr",
       image:
-        "absolute inset-0 bg-cover bg-center bg-[url('../assets/blog2-450x580.jpg.png')]",
+        "absolute inset-0 bg-cover bg-center bg-[url('../Assets/blog2-450x580.jpg.png')]",
     },
   ];
 
