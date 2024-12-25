@@ -15,13 +15,13 @@ const Ingredients=()=>{
           {
             title: "Vitamin C",
             description: "Vitamin C as ascorbic acid",
-            background: "bg-[url('../assets/h2-b1.jpg.png')] bg-cover bg-center",
+            background: "bg-[url('../Assets/h2-b1.jpg.png')] bg-cover bg-center",
             isLinkPresent: true,
           },
           {
             title: "Vitamin B3",
             description: "Niacin for healthy gut and skin",
-            background: "bg-[url('../assets/bn2-2.jpg.png')] bg-cover bg-center",
+            background: "bg-[url('../Assets/bn2-2.jpg.png')] bg-cover bg-center",
             isLinkPresent: true,
           },
 
@@ -30,19 +30,19 @@ const Ingredients=()=>{
         {
             title: "Magnesium",
             description: "Boost energy and support muscle function",
-            background: "bg-[url('../assets/bn2-3.jpg.png')] bg-cover bg-center",
+            background: "bg-[url('../Assets/bn2-3.jpg.png')] bg-cover bg-center",
             isLinkPresent: true,
           },
           {
             title: "Hyaluronic Acid",
             description: "For smooth, supple and soft skin!",
-            background: "bg-[url('../assets/bn2-4.jpg.png')] bg-cover bg-center",
+            background: "bg-[url('../Assets/bn2-4.jpg.png')] bg-cover bg-center",
             isLinkPresent: true,
           },
           {
             title: "Lactobacillus",
             description: "Invigorate your gut microbiome",
-            background: "bg-[url('../assets/bn2-5.jpg.png')] bg-cover bg-center",
+            background: "bg-[url('../Assets/bn2-5.jpg.png')] bg-cover bg-center",
             isLinkPresent: true,
           },
           {
