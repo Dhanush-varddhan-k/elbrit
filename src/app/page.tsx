@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Header from './sections/header';
 import Frontpage from "./sections/frontpage";
 import Features from "./sections/features";
