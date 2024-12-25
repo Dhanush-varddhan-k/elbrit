@@ -1,12 +1,12 @@
 
 import React from "react";
 import Image from "next/image";
-import feature1 from "@/assets/feature1.svg";
-import feature2 from "@/assets/feature2.svg";
-import feature3 from "@/assets/feature3.svg";
-import feature4 from "@/assets/feature4.svg";
-import feature5 from "@/assets/feature5.svg";
-import feature6 from "@/assets/feature6.svg";
+import feature1 from "@/Assets/feature1.svg";
+import feature2 from "@/Assets/feature2.svg";
+import feature3 from "@/Assets/feature3.svg";
+import feature4 from "@/Assets/feature4.svg";
+import feature5 from "@/Assets/feature5.svg";
+import feature6 from "@/Assets/feature6.svg";
 
 const Features = () => {
   const features = [
